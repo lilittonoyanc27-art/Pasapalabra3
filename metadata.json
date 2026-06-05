@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra",
+  "description": "A two-player Spanish past tenses game based on the famous Pasapalabra show, featuring a 3D letter wheel and AI grammar explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
